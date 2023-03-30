@@ -1,7 +1,7 @@
 {
     "name": "floppyclub.filehandler",
     "rootNamespace": "",
-    "references": ["GUID:f69d8956f36fb5643adb743df16d637c"],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
