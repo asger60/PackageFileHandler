@@ -1,4 +1,4 @@
-# Screengrabber
+# Filehandler
 
-An editor window for batch capturing screenshots in various formats
+For handeling the files
 <br>
