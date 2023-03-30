@@ -1,0 +1,19 @@
+{
+    "name": "SpoiledCat.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8a6ef2c462f1567438265b603b320ab7",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:6374799de9bd44442818ee6dd5dbbfc5",
+        "GUID:c959bfde3fa884145bc8e31d59179fbc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

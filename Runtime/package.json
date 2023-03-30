@@ -1,0 +1,24 @@
+{
+  "name": "com.floppyclub.filehandler",
+  "version": "1.0.0",
+  "displayName": "Filehandler",
+  "description": "A little handler for handling of the files. Saving and loading and such",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+
+  },
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Floppyclub",
+    "email": "asger@floppy.club",
+    "url": "https://floppy.club"
+  }
+}
