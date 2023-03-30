@@ -1,6 +1,6 @@
 {
   "name": "com.floppyclub.filehandler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Filehandler",
   "description": "A little handler for handling of the files. Saving and loading and such",
   "unity": "2019.1",
